@@ -28,6 +28,10 @@ This is my first project using custom CSS, built during the Responsive Web Desig
 - Applying background images and color themes
 - Structuring a page using semantic HTML5 tags
 
+## Visit the Live Site
+
+Check out the [Design a Cafe Menu live site](https://aasiyahrahman.github.io/Design_a_Cafe_Menu/)!
+
 ##  Author
 
 Aasiyah Rahman 
