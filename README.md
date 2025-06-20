@@ -28,7 +28,7 @@ This is my first project using custom CSS, built during the Responsive Web Desig
 - Applying background images and color themes
 - Structuring a page using semantic HTML5 tags
 
-## � Author
+##  Author
 
 Aasiyah Rahman 
 Created as part of the [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org)
