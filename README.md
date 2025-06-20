@@ -19,7 +19,7 @@ This is my first project using custom CSS, built during the Responsive Web Desig
 ##  Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 
 ##  What I Learned
 
